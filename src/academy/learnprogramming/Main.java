@@ -77,6 +77,11 @@ public class Main {
 
         }
 
+        int newValue = 50;
+        if(newValue == 50){
+            System.out.println("This is an error");
+        }
+
 
     }
 }
